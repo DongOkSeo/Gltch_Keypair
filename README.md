@@ -2,7 +2,7 @@
 
 **AVAX** for Gltch hackerton submition, make by Keypair
 
-Team: PLSCVC 
+Team: Keypair(PLSCVC) 
 People: Kevin Lee, Jun Ho Jang, Sang Mok Kim, Matthew Lee, Alberto Seo
 
 # fe : front-end
