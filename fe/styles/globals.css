@@ -1,0 +1,11 @@
+@import url("https://fonts.googleapis.com/css2?family=Epilogue&family=Tomorrow&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Epilogue&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Exo:wght@600&display=swap");
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+  font-family: "TT-Commons";
+  src: url(/public/fonts/TT\ Commons\ Black.otf);
+}

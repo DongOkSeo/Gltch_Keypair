@@ -1,0 +1,217 @@
+{
+  "qrcode": {
+    "note": "You can send only {{chainName}} tokens to this address.",
+    "note-a": "Do not send ETC tokens!",
+    "copy": "Copy",
+    "copied": "Copied"
+  },
+  "language": {
+    "english": "English",
+    "korean": "KOR"
+  },
+  "wallet-connect": {
+    "connect-wallet": "Connect Wallet",
+    "i-have-read-understand-and-agree-to-the": "I have read, understand and agree to the",
+    "terms-of-service": "Terms of Service.",
+    "choose-network": "Choose Network",
+    "network-name": "{{networkName}}",
+    "BNB_Testnet": "BNB Testnet",
+    "Polygon_Mumbai": "Polygon Mumbai",
+    "Eth_Gorlie": "Eth Gorlie",
+    "BNB_Smart_Chain": "BNB Chain",
+    "Binance_Smart_Chain_Testnet": "Binance Smart Chain Testnet",
+    "Polygon Mumbai": "Polygon Mumbai",
+    "Polygon": "Polygon",
+    "Ethereum": "Ethereum",
+    "choose-wallet": "Choose Wallet",
+    "wallet-name": "{{walletName}}",
+    "MetaMask": "Metamask",
+    "WalletConnect": "WalletConnect",
+    "continue": "Continue"
+  },
+  "fail-Transaction": {
+    "transaction-failed": "Transaction Unsuccessful",
+    "your-transaction-has-been-failed": "Your transaction has been failed",
+    "try-again": "Try again",
+    "close": "Close"
+  },
+
+  "transaction-successful": {
+    "transaction-successful": "Transaction Successful",
+    "your-transaction-has-been-successful": "Your transaction has been successful",
+    "view-on-explorer": "View on Explorer",
+    "close": "Close"
+  },
+
+  "transaction-approval-wait": {
+    "waiting-for-approval": "Waiting for approval",
+    "sign-transaction": "Sign Transaction",
+    "sign-wallet": "Please sign transaction in your wallet"
+  },
+
+  "close-Transaction": {
+    "transaction-close-heading": "Cancelled by user",
+    "close": "Close"
+  },
+
+  "transaction-validating": {
+    "transaction-validating": "Transaction Validating",
+    "validating-transaction-in-your-wallet": "Validating transaction in your wallet",
+    "waiting-for-transaction-confirmation": "Waiting for transaction confirmation"
+  },
+
+  "navBar": {
+    "swap": {
+      "simple-mode": "Simple mode",
+      "simple-mode-title": "The most user friendly way to trade ",
+      "classic-mode": "Classic Mode",
+      "classic-mode-title": "Take advantage of all familiars tools"
+    }
+  },
+
+  "swap": {
+    "swap": "Swap",
+    "Sell": "Sell",
+    "Buy": "Buy",
+    "swap-mode": "Swap Mode",
+    "tx-cost": "Tx Cost",
+    "1-ETH-price": "1 ETH price",
+    "1-token-price": "1 {{ toTokenName}} price",
+    "1-fromTokenName-price": "1 {{ fromTokenName}} price",
+    "1-USDC-price": "1 USDC price",
+    "max": "Max",
+    "balance": "Balance",
+    "est-received": "Est received",
+    "min-received": "Min received",
+    "est-USDC-buy-price": "Est USDC buy price",
+    "route": "Route",
+    "insufficent-balance": "Insufficient Balance",
+    "insufficient-native-balance": "Insufficient {{ currency}} Balance",
+    "custom-gas-fee-is-less": "Low Custom Gas Fee",
+    "no-liquidity": "No Liquidity For Swap",
+    "loading": "Loading",
+
+    "give-permission-to-swap": "Give Permission to Swap",
+    "confirm-swap": "Confirm Swap",
+    "confirm": "Confirm",
+    "minimum-received": "Minimum received",
+    "your-transaction-will-be-received-if-there-is-a-large": "Your transaction will be received if there is a large",
+    "price": "Price",
+    "note": "Output is estimated. If the price changes by more {{slippageValue}}% your transaction will revert.",
+    "Low": "Low",
+    "Market": "Market",
+    "Aggressive": "Aggressive",
+    "Custom": "Custom",
+    "gas-Prices": "Gas Prices",
+    "gas-options": "{{gasOptions}}",
+    "Market (15)": "Market (15)",
+    "Low (6)": "Low (6)",
+    "High (20)": "High (20)"
+  },
+  "select-token": {
+    "select-token": "Select Token",
+    "choose-token": "Choose Token",
+    "choose-network": "Choose network",
+    "search": "Search",
+    "import": "Import"
+  },
+  "settings": {
+    "settings": "Settings",
+    "read-more": "Read more",
+
+    "reset": "Reset",
+    "slipage-tolerance": "Slippage tolerance",
+    "your-transaction-will-be-reverted-if-the-price-changes-unfavorably-by-more-than-this-percentage": "Your transaction will be reverted if the price changes unfavorably by more than this percentage ",
+    "auto": "Auto",
+    "info": "Info",
+    "custom": "Custom",
+    "current": "Current",
+    "miner-priority-fee": "Miner priority fee",
+    "max-base-fee": "Max base fee",
+    "transaction-might-be-forturn-because-of-high-slippagee-tolerance": "Transaction might be forturn because of high slippage tolerance",
+    "max-gas-fee-can-not-be-lower-than-current-base-fee": "Max gas fee can not be lower than current base fee",
+    "max-base-fee-can-not-be-lower-than-current-base-fee": "Max base fee can not be lower than current base fee",
+    "miner-priority-fee-is-higher-than-necessary": "Miner priority fee is higher than necessary",
+    "this-fee-goes-directly-to-miners-as-an-incentive-to-prioritize-your-transaction": "This fee goes directly to miners as an incentive to prioritize your transaction",
+    "miner-priority-fee-cant-be-0": "Miner priority fee can’t be 0.",
+    "note-base": "A base gas fee is automatically calculated by the network and varies from block to block. Set the max amount of the base fee you wish to pay. A difference between the max base fee you set and the actual base fee will be refunded once the block has been mined."
+  },
+
+  "unknown": "Unknown",
+  "Unknown": "Unknown",
+  "assets": "Assets",
+  "Approval": "Approved",
+  "send": "Send",
+  "Send": "Send",
+  "Receive": "Receive",
+  "receive": "Receive",
+  "Receiver": "Receiver",
+  "receiver": "Receiver",
+  "Approved": "Approved",
+  "approved": "Approved",
+  "status": "{{statusName}}",
+  "account": {
+    "account": "Account",
+    "accountAddress": {
+      "copy": "Copy",
+      "copied": "copied",
+      "explore": "Explore",
+      "disconnect": "Disconnect"
+    },
+    "assets": {
+      "assets": "Assets",
+      "you-do-not-have-any-assets": "You do not have any assets"
+    },
+    "history": {
+      "status": "{{statusName}}",
+      "history": "History",
+      "no-record-found": "No record found",
+      "no-history-found": "No history found",
+      "we-are-having-a-technical-Issue-initiated-the-swap": "We are having a technical Issue with facing the transaction details, It Might accrue because the receiver address was different from that which initiated the swap"
+    },
+    "transaction-details": {
+      "transaction-details": "Transaction Details",
+      "time": "Time ",
+      "transaction-cost": "Transaction Cost",
+      "hash": "Hash",
+      "from": "From",
+      "to": "To",
+      "sent": "Sent",
+      "view-on-chainName": "View on {{chainName}}"
+    },
+    "receive": {
+      "receive": "Receive",
+      "receive-note": "You can send only {{chainName}} tokens to this address. Do not send ETC tokens!",
+      "copy": "Copy",
+      "copied": "copied"
+    },
+    "send": {
+      "send": "Send",
+      "receiver-address": "Receiver Address",
+      "enter-address": "Enter address",
+      "assets": "Assets",
+      "gas-price": "Gas price",
+      "Name": "{{Name}}"
+    }
+  },
+  "import": {
+    "Import": "Import",
+    "i-understand": "I understand",
+    "trade-at-your-own-risk": "Trade at your own risk!",
+    "anyone-can-create-a-token,including-creating-fake-versions-of-existing": "Anyone can create a token, including creating fake versions of existing tokens that claim to represent projects.    If you purchase this token,  you may not be able to sell it back'   Pressed Import button ",
+    "this-token-has-already-been-added": "This token has already been added",
+    "token-not-found": "Token Not Found",
+    "cannot-fetch-token": "Cannot fetch token"
+  },
+  "coming-soon": "{{pageTitle}} coming soon !",
+  "stay-tuned-for-something-amazing": "Stay tuned for something amazing",
+  "subscribe-to-our-mailing-to-get-the-latest-updates": "Subscribe to our mailing list to get the latest updates",
+  "Email": "Email",
+  "Subscribe ": "Subscribe",
+  "STAKING": "Staking",
+  "POOL": "Pool",
+  "routing": "Routing",
+
+  "CHANGE-THEME": "Change Theme",
+  "CHANGE-LANGUAGE": "Change Language"
+}

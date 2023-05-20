@@ -1,0 +1,19 @@
+{
+  "time": "Time",
+  "5m": "5m",
+  "15m": "15m",
+  "1H": "1H",
+  "4H": "4H",
+  "1D": "1D",
+  "1W": "1W",
+  "1M": "1M",
+  "1Y": "1Y",
+  "ALL": "ALL",
+  "exchanges": "Exchanges",
+  "swap-history": "swap history",
+  "name": "Name",
+  "diff": "Diff",
+  "best": "Best",
+  "match": "match",
+  "ETH/DAI": "ETH/DAI"
+}
