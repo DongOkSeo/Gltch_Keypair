@@ -1,0 +1,5 @@
+DB_HOST=localhost
+DB_PORT=3306
+DB_USER=keypair_admin
+DB_PASSWORD=test1234
+DB_DATABASE=keypair_db
